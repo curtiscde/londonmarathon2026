@@ -2,4 +2,4 @@
 
 This site has moved to Route Raiser:
 
-https://routeraiser.curtiscode.dev/page/curtis
+https://www.routeraiser.com/page/curtis
